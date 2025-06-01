@@ -83,6 +83,8 @@ MERN_STACK_RESTAURANT_RESERVATION
 
 ![BreakFast](MERN_STACK_RESTAURANT_RESERVATION-main/frontend/public/breakfast1.png)
 
+![Review](MERN_STACK_RESTAURANT_RESERVATION-main/frontend/public/review_1.png)
+
 
 👨‍💻 Developed by:
 
