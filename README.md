@@ -72,6 +72,12 @@ MERN_STACK_RESTAURANT_RESERVATION
     npm start
 ```
 
+   Frontend Setup
+```
+  cd frontend
+  npm install
+  npm run dev
+```
 
 
 
