@@ -20,21 +20,34 @@ SnakRestro is a modern web application built using the MERN Stack (MongoDB, Expr
 
 📁 Project Structure
 
-MERN_STACK_RESTAURANT_RESERVATION/
+MERN_STACK_RESTAURANT_RESERVATION
+
 │
+
 ├── backend/           # Node.js + Express API
+
 │   ├── controller/    # Reservation logic
+
 │   ├── models/        # MongoDB schemas
+
 │   ├── routes/        # API routing
+
 │   ├── server.js      # Entry point
+
 │   └── database/      # DB connection
 │
 ├── frontend/          # React + Vite App
+
 │   ├── public/        # Assets like images, SVGs
+
 │   ├── components/    # React UI components
+
 │   ├── App.jsx        # Main app file
+
 │   └── index.html     # HTML entry point
+
 │
+
 └── .gitignore
 
 
