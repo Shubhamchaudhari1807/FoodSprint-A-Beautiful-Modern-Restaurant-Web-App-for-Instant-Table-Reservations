@@ -35,7 +35,8 @@ MERN_STACK_RESTAURANT_RESERVATION
 │   ├── server.js      # Entry point
 
 │   └── database/      # DB connection
-│
+
+
 ├── frontend/          # React + Vite App
 
 │   ├── public/        # Assets like images, SVGs
