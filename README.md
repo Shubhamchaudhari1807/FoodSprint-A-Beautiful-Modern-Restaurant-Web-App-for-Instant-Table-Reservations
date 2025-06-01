@@ -62,5 +62,16 @@ MERN_STACK_RESTAURANT_RESERVATION
 | Vercel     | Deployment Platform (Backend) |
 
 
+🚀 How to Run Locally
+    Backend Setup
+```
+    cd backend
+
+    npm install
+
+    npm start
+```
+
+
 
 
