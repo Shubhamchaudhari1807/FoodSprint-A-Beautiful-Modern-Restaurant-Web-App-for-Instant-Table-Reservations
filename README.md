@@ -82,7 +82,9 @@ MERN_STACK_RESTAURANT_RESERVATION
 👨‍💻 Developed by:
 
 Shubham Chaudhari
+RCPIT Shirpur
 
 📧 Email: [chaudharishubham1807@gmail.com](chaudharishubham1807@gmail.com)
+
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/shubhamchaudhari1807/)
 
