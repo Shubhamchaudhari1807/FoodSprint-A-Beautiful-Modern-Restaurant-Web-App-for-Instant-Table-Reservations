@@ -79,5 +79,10 @@ MERN_STACK_RESTAURANT_RESERVATION
   npm run dev
 ```
 
+👨‍💻 Developed by:
 
+Shubham Chaudhari
+
+📧 Email: [chaudharishubham1807@gmail.com](chaudharishubham1807@gmail.com)
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/shubhamchaudhari1807/)
 
