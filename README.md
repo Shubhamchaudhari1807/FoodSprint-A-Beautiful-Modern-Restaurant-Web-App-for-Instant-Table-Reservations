@@ -1,4 +1,4 @@
-🍽️ SnakRestro - A Sleek Restaurant Reservation Web App
+🍽️ FoodSprint - A Sleek Restaurant Reservation Web App
 
   Your perfect meal, just a click away.  
 
