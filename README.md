@@ -83,6 +83,8 @@ MERN_STACK_RESTAURANT_RESERVATION
 
 ![BreakFast](MERN_STACK_RESTAURANT_RESERVATION-main/frontend/public/breakfast1.png)
 
+![dashboard](MERN_STACK_RESTAURANT_RESERVATION-main/frontend/public/dashboard.png)
+
 ![Review](MERN_STACK_RESTAURANT_RESERVATION-main/frontend/public/review_1.png)
 
 ![Lunch](MERN_STACK_RESTAURANT_RESERVATION-main/frontend/public/sandwich.png)
